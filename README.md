@@ -6,10 +6,13 @@ Group#1
 
 Part 1: Question 6:
 Vignere Cipher. 
+
+Steps for Understanding how this works and how to operate with a vignere Cipher
 1) We need to set a key
 2) We need to Decide on a message to decipher
 3) - For Encryption: Ei = (Pi + Ki) (mod 26)
 4) - For Decryption: Pi = (Ei - Ki) (mod 26)
+5) An easier way to conceptualize would be to visualize Vigenère algebraically by converting [A-Z] into numbers [0–25].
 
 Resources and links used to help create program
 https://www.sanfoundry.com
