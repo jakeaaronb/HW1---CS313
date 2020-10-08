@@ -1,4 +1,4 @@
-# HW1---CS313 M.Fried
+# HW1---CS313
 Disclaimer: A lotm of internet assistance was used. Nothing was Copy and pasted. However, to be fully honest. a lot of coding ideas were taken from the internet.
 
 Jacob Brown
